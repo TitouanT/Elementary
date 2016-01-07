@@ -1,4 +1,4 @@
-```shell
+
     #!/bin/sh
      
     if [ $# -gt 1 ] # if there is too many argument
@@ -102,4 +102,4 @@
     done
      
     BackgroudSlideshow.sh $1 #at the end the script call himself to actualize "ListPictures.txt"
-```
+
