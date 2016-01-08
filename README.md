@@ -1,5 +1,5 @@
 # Elementary
-Here i share some script i made for elementaryOS. 
+Here i share some script I made for elementaryOS. 
 
 
 To use the scirpt of that folder you have to add them into the bin folder of your home ( maybe you have to create it ).
